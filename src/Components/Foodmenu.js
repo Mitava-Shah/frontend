@@ -6,7 +6,7 @@ export default function Foodmenu() {
     <div className='flex justify-center items-center'>
       <img src={Leaf} alt="" className='h-8 w-8' />
       <p className='text-orange'>Food Menu</p>
-      <p>Our Popular Delious Foods</p>
+      <p>Our Popular Delious Food</p>
     </div>
   )
 }
